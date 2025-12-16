@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "duckFas1",
+	"frame": {"x":0,"y":0,"w":400,"h":533},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":533},
+	"sourceSize": {"w":400,"h":533}
+},
+{
+	"filename": "duckFas2",
+	"frame": {"x":0,"y":533,"w":400,"h":533},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":533},
+	"sourceSize": {"w":400,"h":533}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "duckFas.png",
+	"format": "RGBA8888",
+	"size": {"w":400,"h":1066},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:63ff4dab8fe539167f09d9b5cc6b0468:8d13de13db3bbe67aee476a13f35b15d:ab9b64f72588ef97c7fdf40ece567505$"
+}
+}

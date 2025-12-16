@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "duckProfil1",
+	"frame": {"x":0,"y":0,"w":600,"h":533},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":533},
+	"sourceSize": {"w":600,"h":533}
+},
+{
+	"filename": "duckProfil2",
+	"frame": {"x":600,"y":0,"w":600,"h":533},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":533},
+	"sourceSize": {"w":600,"h":533}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "duckProfil.png",
+	"format": "RGBA8888",
+	"size": {"w":1200,"h":533},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:71414ef61e63165c59e9ac5509e638b1:34ea437a5ddeb459a1cb0663b5e0b1de:cd03ed40712a50410841ade91c170741$"
+}
+}
